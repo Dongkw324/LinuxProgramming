@@ -10,4 +10,10 @@
 3. myls -t 구현 ex) myls -t, myls -t fileName, myls -t Directory
 4. myls -i 구현 ex) myls -i, myls -i fileName, myls -i Directory
 
+### myChmod
 
+기본옵션만 구현 ex) myChmod 0644 fileName, myChmod 0644 Directory
+
+### myTouch
+
+기본옵션만 구현 ex) myTouch fileName
